@@ -1,0 +1,6 @@
+C:\Users\artma\Downloads\Laboratorki-master\Laboratorki-master\GraphicRedaktor\x64\Debug\GraphicRedaktor.vcxproj.AssemblyReference.cache
+C:\Users\artma\Downloads\Laboratorki-master\Laboratorki-master\GraphicRedaktor\x64\Debug\GraphicRedaktor.MyForm.resources
+C:\Users\artma\Downloads\Laboratorki-master\Laboratorki-master\GraphicRedaktor\x64\Debug\GraphicRedaktor.vcxproj.GenerateResource.cache
+C:\Users\artal\Desktop\laba5\laba5\GraphicRedaktor\x64\Debug\GraphicRedaktor.vcxproj.AssemblyReference.cache
+C:\Users\artal\Desktop\laba5\laba5\GraphicRedaktor\x64\Debug\GraphicRedaktor.MyForm.resources
+C:\Users\artal\Desktop\laba5\laba5\GraphicRedaktor\x64\Debug\GraphicRedaktor.vcxproj.GenerateResource.cache

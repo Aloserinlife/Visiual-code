@@ -1,0 +1,6 @@
+C:\Users\artma\Downloads\4-laba-master\4-laba-master\Slovar\x64\Debug\Slovar.vcxproj.AssemblyReference.cache
+C:\Users\artma\Downloads\4-laba-master\4-laba-master\Slovar\x64\Debug\Slovar.MyForm.resources
+C:\Users\artma\Downloads\4-laba-master\4-laba-master\Slovar\x64\Debug\Slovar.vcxproj.GenerateResource.cache
+C:\Users\artal\Desktop\laba6\laba6\Slovar\x64\Debug\Slovar.vcxproj.AssemblyReference.cache
+C:\Users\artal\Desktop\laba6\laba6\Slovar\x64\Debug\Slovar.MyForm.resources
+C:\Users\artal\Desktop\laba6\laba6\Slovar\x64\Debug\Slovar.vcxproj.GenerateResource.cache
